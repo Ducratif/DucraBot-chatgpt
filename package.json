@@ -1,0 +1,18 @@
+{
+  "name": "ducrabot",
+  "version": "1.0.0",
+  "description": "Bot Discord Node.js (slash commands) avec base interne JSON, auto-déploiement des commandes, et setup automatique.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "zod": "^3.23.8"
+  }
+}

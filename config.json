@@ -1,0 +1,17 @@
+{
+  "guildId": "ID_SERVER",
+  "ownerId": "ID_OWNER",
+  "language": "fr",
+  "embedColor": "#5865F2",
+  "features": {
+    "welcome": true,
+    "logs": true,
+    "suggestions": true,
+    "reports": true
+  },
+  "defaults": {
+    "welcomeMessage": "👋 Bienvenue {user} sur **{server}** !",
+    "autoRoleId": ""
+  },
+  "staffRoleId": ""
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "settings": {
+    "guildId": "1456273536804192308",
+    "channels": {
+      "categoryId": "1456284056101584897",
+      "welcomeChannelId": "1456284058723029177",
+      "announceChannelId": "1456284057527652447",
+      "logsChannelId": "1456284060107280416",
+      "suggestionsChannelId": "1456284062703554741",
+      "reportsChannelId": "1456284063684886528"
+    },
+    "welcomeMessage": "👋 Bienvenue {user} sur **{server}** !",
+    "autoRoleId": ""
+  },
+  "stats": {
+    "startCount": 1,
+    "lastStartAt": 1767275429437
+  }
+}
